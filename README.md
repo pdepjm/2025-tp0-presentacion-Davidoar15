@@ -1,7 +1,7 @@
 # David Alfonso Olivo Rodríguez
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/130083345?v=4" alt="Foto-Imagen" style="border-radius:50%">
+  <img src="https://avatars.githubusercontent.com/u/130083345?v=4" alt="Foto-Imagen" style="border-radius:50px">
 </p>
 
 ## Legajo: 222.558-0
