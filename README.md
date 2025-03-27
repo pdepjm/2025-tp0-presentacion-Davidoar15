@@ -1,6 +1,6 @@
 # David Alfonso Olivo Rodríguez
 
-<p align="center" style="border: 2px solid red; border-radius: 5px; padding: 5px;">
+<p align="center">
   <img src="https://avatars.githubusercontent.com/u/130083345?v=4" alt="Foto-Imagen">
 </p>
 
